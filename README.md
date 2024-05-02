@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diogo Guedes</h1>
 <h3 align="center">A passionate IT Cloud Devops Engineer</h3>
 
-- 🔭 I’m currently working at **MagicBeans**
+- 🔭 I’m currently working at **Devoteam**
 
 - 🌱 I’m currently learning **AI, DevOps, CyberSecurity**
 
