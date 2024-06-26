@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Devoteam**
 
-- 🌱 I’m currently learning **AI, Cloud, CyberSecurity**
+- 🌱 I’m currently learning **AI, Cloud, Programming**
 
 - 💬 Ask me about **Cloud and DevOps**
 
