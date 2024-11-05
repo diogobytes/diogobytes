@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **Devoteam**
 
-- 🌱 I’m currently learning **AI, Cloud, Programming**
+- 🌱 I’m currently learning **Cloud, Programming 👨‍💻 and Cybersecurity 🔐**
 
-- 💬 Ask me about **Cloud and DevOps**
+- 💬 Ask me about **Cloud and DevOps 🚀**
 
-- ⚡ Fun fact **I love chess :)**
+- ⚡ Fun fact **I love chess ♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
